@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Darwin👋
 
-<!--
-**dpalau/dpalau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate IA whith a love for web crawling, process automation, data engineering, and software developer.
 
-Here are some ideas to get you started:
+## About Me
+:Major: Software Developer
+:Location: Cali - (Valle del Cauca)
+:Current Job/Position: Software Developer
+:Ask me about: C#
+:Fun Fact: I play soccer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Technologies
+Here are some of the tools and technologies i love working with:
+Languages: C#
+Databases:SQL Server
+Tools: GitHub
+
+## Get in Touch
+Email
+LinkedIn
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/dpalau/dpalau)
+
